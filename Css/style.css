@@ -1,0 +1,174 @@
+
+.icon{
+
+    background-color: #f2f4f8;
+    
+   
+}
+
+
+.heading h2{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Dosis', sans-serif;
+
+}
+
+
+.heading p{
+    text-align: center;
+}
+
+.main {
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.drone {
+    background-color: white;
+    
+    border-radius: 10px;
+    width: 80px;
+    text-align: center;
+    align-items: center;
+    margin: 15px;
+    padding: 30px;
+    
+}
+.drone> img{
+    width: 50%;
+    border-radius: 10px;
+    padding-bottom: 0;
+}
+
+
+.drone a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+
+
+.part2 h2{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Dosis', sans-serif;
+
+}
+
+.pc{
+    display: flex;
+    justify-content: center;
+}
+
+.part2 p{
+    text-align: center;
+}
+
+
+
+
+.price {
+    background-color: white;
+    
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    margin: 15px;
+    padding: 30px;
+    
+}
+.price a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+.price h3{
+
+    text-align: left;
+    font-family:  sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: #e5330b;
+}
+
+
+
+.titile h1{
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Poppins', sans-serif;
+} 
+
+.titile p
+{
+    text-align: center;
+   
+    font-family: 'Montserrat', sans-serif;
+    
+}
+                /* allcourse */
+.allcourse {
+    display: flex;
+    justify-content: center;
+
+        
+        
+
+}
+
+.course {
+    background-color: white;
+    
+    border-radius: 10px;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+    padding: 1px;
+    
+    
+}
+
+.course img{
+
+        width: 350px;
+        border-radius: 10px;
+       
+}
+.course  a{
+    
+    display: inline;
+    text-decoration: none;
+}
+
+.course a h6{
+
+    font-size: 14px;
+    display: flex;
+    line-height: 23px;
+    align-items: center;
+    color: #df6812;
+    margin-left: 20px;
+}
+
+.course h3{
+
+    font-family: 'Inter', cursive;
+    text-align: left;
+    margin-left: 20px;
+   
+
+}
+
+.course p{
+color: #434242;
+font-family: 'Inter', cursive;
+text-align: left;
+margin-left: 20px;
+font-size: 16px;
+
+}
